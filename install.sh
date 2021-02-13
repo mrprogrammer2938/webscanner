@@ -2,11 +2,11 @@
 # This code write by (ms.nope)
 echo "        installing..."
 
-git clone https://github.com/msprogrammer2938/webscan.git
+git clone https://github.com/msprogrammer2938/testweb.git
 
 cd webscan
 
 bash install.sh
 
-python3 scanweb.py
+python3 testweb.git
 # scanweb
