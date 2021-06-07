@@ -1,4 +1,4 @@
-# webscanner
+# Webscanner
 This code write by [Mr.nope](https://github.com/mrprogrammer2938/webscanner)
 
 **Installing**
