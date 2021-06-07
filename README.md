@@ -1,9 +1,9 @@
 # webscanner
-This code write by [Ms.nope](https://github.com/msprogrammer2938/webscanner)
+This code write by [Mr.nope](https://github.com/mrprogrammer2938/webscanner)
 
 **Installing**
 ```
-git clone https://github.com/msprogrammer2938/webscanner
+git clone https://github.com/mrprogrammer2938/webscanner
 
 cd webscanner
 
@@ -11,6 +11,6 @@ bash install.sh
 
 python3 webscanner.py
 ```
-[Ms.nope](https://github.com/msprogrammer2938) Account...
+[Mr.nope](https://github.com/mrprogrammer2938) Account...
 
 [Instagram](https://instagram.com/programmer2938)
